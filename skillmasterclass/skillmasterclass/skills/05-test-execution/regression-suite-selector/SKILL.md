@@ -8,7 +8,7 @@ description: >-
   safety net of always-run tests. It recommends; a human confirms before anything is skipped.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: Vasanth
   stlc-phase: Test Execution
   version: 1.0.0
 ---

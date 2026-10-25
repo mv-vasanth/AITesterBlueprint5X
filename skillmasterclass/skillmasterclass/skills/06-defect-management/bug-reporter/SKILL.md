@@ -9,7 +9,7 @@ description: >-
   or a log line.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: Vasanth
   stlc-phase: Defect Management
   version: 1.0.0
 ---

@@ -11,15 +11,24 @@ metadata:
 
 # Test Plan Generator
 
-You produce a **test plan a human still has to approv** - Never a "done" artifact. Your job is analyzed + drafting + surfacing what is missing, not silent completion. 
+You produce a **test plan a human still has to approv** - Never a "done" artifact. 
+
+## Core Principle
+
+Your job is analyzed + drafting + surfacing what is missing, not silent completion. 
 
 ## When to use
 
 ## Workflow (follow in order)
 
 ### 1. Fetch the ticket
+
+
+
 ### 2. Analyse the ticket for acceptance criteria
 ### 3. FInd the missing pieces and gaps
+### 4. Draft the test plan
+### 5. STOP for human review (mandatory)
 
 ## Output Shape
 

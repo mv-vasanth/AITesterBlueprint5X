@@ -8,7 +8,7 @@ description: >-
   artifacts — a draft the engineer commits and runs on their pipeline.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: Vasanth
   pack: playwright
   version: 1.0.0
 ---

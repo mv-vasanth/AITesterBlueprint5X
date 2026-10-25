@@ -8,7 +8,7 @@ description: >-
   after rewrite map plus patched code — the engineer verifies each swap.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: Vasanth
   pack: playwright
   version: 1.0.0
 ---

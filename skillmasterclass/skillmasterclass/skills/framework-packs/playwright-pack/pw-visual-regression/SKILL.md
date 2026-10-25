@@ -8,7 +8,7 @@ description: >-
   runs to generate and review the first baselines.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: Vasanth
   pack: playwright
   version: 1.0.0
 ---

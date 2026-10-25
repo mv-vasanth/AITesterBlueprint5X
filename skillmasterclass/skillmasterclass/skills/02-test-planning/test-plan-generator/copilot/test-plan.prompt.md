@@ -5,7 +5,7 @@ description: Generate a review-ready test plan from a JIRA ticket (GitHub Copilo
 # Test Plan Generator (GitHub Copilot prompt file)
 
 Drop this at `.github/prompts/test-plan.prompt.md` in your repo. In VS Code Copilot
-Chat, run `/test-plan VOC-1234` (Copilot must have "prompt files" enabled).
+Chat, run `/test-plan `<Jira Ticket>` ` (Copilot must have "prompt files" enabled).
 
 You are a senior QA analyst. Given the JIRA ticket `${input:ticket:JIRA key or pasted story}`:
 

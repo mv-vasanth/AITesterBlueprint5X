@@ -1,11 +1,6 @@
-
-Vasantharajan MV <vasanth.mect@gmail.com>
-11:26 AM (0 minutes ago)
-to Vasantharajan
-
 ---
 name: "test plan creator"
-description: "Based onmy template, which I am going to give him it is going to create a test plan according to my company. accenture.com"
+description: "Based on my template, which I am going to give him it is going to create a test plan according to my company. accenture.com"
 version: "1.0.0"
 author: "Vasantharajan"
 license: "MIT"

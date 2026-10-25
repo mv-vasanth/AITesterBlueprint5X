@@ -9,7 +9,7 @@ description: >-
   finished test, and never assumes selectors or fixtures exist.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: Vasanth
   stlc-phase: Test Execution
   version: 1.0.0
 ---

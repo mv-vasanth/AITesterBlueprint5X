@@ -8,7 +8,7 @@ description: >-
   fixes, and suggests trace/retry settings — a diagnosis the engineer confirms.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: Vasanth
   pack: playwright
   version: 1.0.0
 ---

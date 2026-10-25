@@ -8,7 +8,7 @@ description: >-
   WCAG mapping — a draft the engineer runs, knowing axe catches only ~30-40%.
 license: MIT
 metadata:
-  author: TheTestingAcademy
+  author: Vasanth
   pack: playwright
   version: 1.0.0
 ---
