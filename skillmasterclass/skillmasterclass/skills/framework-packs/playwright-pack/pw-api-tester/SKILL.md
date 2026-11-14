@@ -6,7 +6,7 @@ description: >-
   schema validation for this response", "cover the negative cases", or pastes an
   OpenAPI/endpoint spec. Produces happy-path, schema-validation, auth, and
   negative/boundary tests — a draft the engineer runs against a real service.
-license: MIT
+
 metadata:
   author: Vasanth
   pack: playwright

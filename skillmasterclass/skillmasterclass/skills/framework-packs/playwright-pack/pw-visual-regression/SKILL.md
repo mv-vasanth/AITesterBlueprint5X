@@ -6,7 +6,7 @@ description: >-
   "mask the dynamic parts of this page", or "manage baselines". Produces snapshot
   tests with masking, thresholds, and a baseline strategy — a draft the engineer
   runs to generate and review the first baselines.
-license: MIT
+
 metadata:
   author: Vasanth
   pack: playwright

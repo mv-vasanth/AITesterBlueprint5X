@@ -6,7 +6,7 @@ description: >-
   timeout", "why does this test flake", or pastes a test that fails ~1 in N runs.
   Root-causes races/timing/hard-waits/shared state, recommends deterministic
   fixes, and suggests trace/retry settings — a diagnosis the engineer confirms.
-license: MIT
+
 metadata:
   author: Vasanth
   pack: playwright

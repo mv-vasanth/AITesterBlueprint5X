@@ -6,9 +6,8 @@ description: >-
   synchronization. Use when an SDET says "remove Thread.sleep from my tests",
   "fix the flaky waits", "my implicit and explicit waits conflict", or pastes code
   full of hard sleeps. Produces refactors the engineer must run and confirm.
-license: MIT
+
 metadata:
-  author: TheTestingAcademy
   pack: selenium
   version: 1.0.0
 ---

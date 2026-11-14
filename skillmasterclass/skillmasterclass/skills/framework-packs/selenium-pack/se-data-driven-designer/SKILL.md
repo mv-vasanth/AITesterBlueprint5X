@@ -6,7 +6,7 @@ description: >-
   "make this test data-driven", "add a @DataProvider", "parameterize this login
   test", "read test data from CSV/Excel/JSON", or wants coverage across many inputs.
   Produces test scaffolding and data the engineer must run and review.
-license: MIT
+
 metadata:
   author: Vasanth
   pack: selenium

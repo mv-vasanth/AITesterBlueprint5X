@@ -6,9 +6,8 @@ description: >-
   tests across jobs", "upload traces and the HTML report", or "run browsers in a
   matrix". Produces a workflow with install, sharding, blob/HTML reporting, and
   artifacts — a draft the engineer commits and runs on their pipeline.
-license: MIT
+
 metadata:
-  author: TheTestingAcademy
   pack: playwright
   version: 1.0.0
 ---

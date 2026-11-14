@@ -6,9 +6,8 @@ description: >-
   Captures pass / fail / blocked / not-run per case with evidence links and environment,
   then rolls up progress — completion %, pass rate, blockers. Records only what actually
   happened; anything unverified is marked "not run", never assumed green.
-license: MIT
+
 metadata:
-  author: TheTestingAcademy
   stlc-phase: Test Execution
   version: 1.0.0
 ---

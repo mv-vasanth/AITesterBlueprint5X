@@ -6,7 +6,7 @@ description: >-
   are flaky", "replace XPath with getByRole", "make these locators resilient",
   or pastes code full of nth-child/CSS-class/text selectors. Produces a before/
   after rewrite map plus patched code — the engineer verifies each swap.
-license: MIT
+
 metadata:
   author: Vasanth
   pack: playwright

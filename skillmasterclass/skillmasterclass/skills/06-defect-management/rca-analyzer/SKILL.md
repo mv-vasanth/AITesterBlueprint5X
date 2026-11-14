@@ -6,7 +6,7 @@ description: >-
   Applies 5-Whys and a fishbone across people, process, tooling, data, and environment,
   separates root cause from symptom, and proposes corrective and preventive actions.
   Reasons only from evidence supplied; unknown links are marked as hypotheses to verify.
-license: MIT
+
 metadata:
   author: Vasanth
   stlc-phase: Defect Management

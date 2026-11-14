@@ -2,8 +2,7 @@
 name: "test-plan-creator"
 description: "Based on my template, which I am going to give him, it is going to create a test plan according to my company. VWO.com "
 version: "1.0.0"
-author: "Prrammod Dutta"
-license: "MIT"
+
 tags:
   - testplan
 ---

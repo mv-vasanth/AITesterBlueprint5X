@@ -6,9 +6,8 @@ description: >-
   my tests on Chrome and Firefox", "add cross-browser support", "parameterize the
   browser in testng.xml", "set up a browser matrix", or wants multi-browser CI runs.
   Produces config and code the engineer must run per browser to confirm.
-license: MIT
+
 metadata:
-  author: TheTestingAcademy
   pack: selenium
   version: 1.0.0
 ---

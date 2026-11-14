@@ -6,9 +6,8 @@ description: >-
   contract snippet and wants coverage mapped. Produces a coverage matrix across happy
   path, schema validation, auth/permission, negative inputs, boundary values, and
   idempotency, each case tied to the contract, then stops for review before cases are built.
-license: MIT
+
 metadata:
-  author: TheTestingAcademy
   stlc-phase: Test Design
   version: 1.0.0
 ---

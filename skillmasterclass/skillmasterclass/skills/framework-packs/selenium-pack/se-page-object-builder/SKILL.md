@@ -6,7 +6,7 @@ description: >-
   an SDET says "create a page object for the login page", "build a POM class",
   "refactor these locators into a page object", or pastes a page's fields and
   wants a reusable POM. Produces a draft class the engineer must review and run.
-license: MIT
+
 metadata:
   author: Vasanth
   pack: selenium

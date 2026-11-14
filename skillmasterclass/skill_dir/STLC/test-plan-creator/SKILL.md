@@ -8,7 +8,6 @@ description: >-
   test-plan template, and stops for human review before anything is treated as final.
 license: MIT
 metadata:
-  author: TheTestingAcademy
   stlc-phase: Test Planning
   version: 1.0.0
 ---
@@ -25,8 +24,8 @@ Your job is analysis + drafting + surfacing what is missing, not silent completi
 ## Workflow (follow in order)
 
 ### 1. Fetch the ticket
-- If a JIRA key is given (e.g. `VOC-1234`), fetch it. Prefer an available JIRA MCP
-  tool. If none, run `scripts/fetch_jira.sh VOC-1234` (needs `JIRA_BASE_URL`,
+- If a JIRA key is given (e.g. `PCGS-1234`), fetch it. Prefer an available JIRA MCP
+  tool. If none, run `scripts/fetch_jira.sh PCGS-1234` (needs `JIRA_BASE_URL`,
   `JIRA_EMAIL`, `JIRA_TOKEN` env vars). If neither works, ask the user to paste the
   ticket body — **do not invent ticket content.**
 - Capture: summary, description, acceptance criteria, components, linked issues,

@@ -6,9 +6,8 @@ description: >-
   fixes. Use when an SDET says "my test is flaky", "StaleElementReferenceException
   keeps happening", "passes locally fails in CI", "intermittent NoSuchElement", or
   pastes a stack trace. Produces fixes the engineer must run to confirm the cure.
-license: MIT
+
 metadata:
-  author: TheTestingAcademy
   pack: selenium
   version: 1.0.0
 ---

@@ -6,9 +6,8 @@ description: >-
   "scaffold a Selenium framework", "set up a new Maven Selenium project", "give me
   a POM/TestNG project structure", or is starting automation from zero. Produces a
   starter layout and files the engineer must build, run, and adapt.
-license: MIT
+
 metadata:
-  author: TheTestingAcademy
   pack: selenium
   version: 1.0.0
 ---

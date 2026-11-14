@@ -6,9 +6,8 @@ description: >-
   a spec for the checkout flow", "turn this scenario into a test", or pastes
   acceptance criteria that need automating. Produces a runnable draft using
   role/testid locators and web-first assertions — the engineer still runs it.
-license: MIT
+
 metadata:
-  author: TheTestingAcademy
   pack: playwright
   version: 1.0.0
 ---

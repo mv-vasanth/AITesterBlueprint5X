@@ -7,9 +7,8 @@ description: >-
   vs actual, severity/priority, evidence, and suspected area — ready to paste into the
   tracker after a human confirms it. Reports only observed facts; never invents a repro step
   or a log line.
-license: MIT
+
 metadata:
-  author: TheTestingAcademy
   stlc-phase: Defect Management
   version: 1.0.0
 ---

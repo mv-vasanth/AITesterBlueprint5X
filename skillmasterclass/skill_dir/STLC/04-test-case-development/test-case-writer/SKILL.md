@@ -6,9 +6,8 @@ description: >-
   scenario list ready to become step-by-step cases. Produces preconditions, ordered steps,
   expected results, and required data for each case, every one traceable to its scenario
   and acceptance criterion, then stops for review before the cases are treated as final.
-license: MIT
+
 metadata:
-  author: TheTestingAcademy
   stlc-phase: Test Case Development
   version: 1.0.0
 ---

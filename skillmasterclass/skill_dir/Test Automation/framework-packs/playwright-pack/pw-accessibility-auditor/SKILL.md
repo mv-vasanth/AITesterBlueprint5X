@@ -6,9 +6,8 @@ description: >-
   accessibility", "check WCAG compliance", or "triage these accessibility
   violations". Produces @axe-core/playwright-based tests, severity triage, and
   WCAG mapping — a draft the engineer runs, knowing axe catches only ~30-40%.
-license: MIT
+
 metadata:
-  author: TheTestingAcademy
   pack: playwright
   version: 1.0.0
 ---

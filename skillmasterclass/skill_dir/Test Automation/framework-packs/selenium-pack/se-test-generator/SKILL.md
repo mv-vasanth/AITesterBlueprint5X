@@ -6,9 +6,8 @@ description: >-
   "write a Selenium test for login", "generate a TestNG test for the checkout
   flow", "automate this scenario in Selenium", or pastes Gherkin/steps and wants
   Java WebDriver code. Produces a draft test the engineer must review and run.
-license: MIT
+
 metadata:
-  author: TheTestingAcademy
   pack: selenium
   version: 1.0.0
 ---

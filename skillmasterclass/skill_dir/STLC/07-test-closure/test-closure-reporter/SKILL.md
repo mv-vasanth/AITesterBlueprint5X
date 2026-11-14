@@ -7,9 +7,8 @@ description: >-
   highlights, risks, and a go/no-go recommendation. The recommendation is advisory only:
   it lays out the evidence, but a human owns the sign-off decision. Uses real numbers, never
   invented ones.
-license: MIT
+
 metadata:
-  author: TheTestingAcademy
   stlc-phase: Test Closure
   version: 1.0.0
 ---

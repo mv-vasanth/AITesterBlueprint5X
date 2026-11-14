@@ -6,7 +6,7 @@ description: >-
   "design scenarios for this feature", or pastes ACs and wants coverage mapped out.
   Produces positive, negative, boundary, and cross-role scenarios, each tagged by risk
   and traced back to the AC it exercises, then stops for review before test cases are written.
-license: MIT
+
 metadata:
   author: Vasanth
   stlc-phase: Test Design

@@ -6,7 +6,7 @@ description: >-
   invalid, boundary, and synthetic records to drive cases. Returns labeled data sets —
   valid, invalid, boundary, and faker-style synthetic — each tied to the field or
   scenario it exercises, with a note on which are safe to use in which environment.
-license: MIT
+
 metadata:
   author: Vasanth
   stlc-phase: Test Case Development

@@ -7,7 +7,7 @@ description: >-
   requirements/ACs and code areas on one axis, tests on the other — and surfaces untested
   ACs, thinly covered areas, and orphan tests. Reports gaps from real artifacts, never
   assumed coverage.
-license: MIT
+
 metadata:
   author: Vasanth
   stlc-phase: Test Closure

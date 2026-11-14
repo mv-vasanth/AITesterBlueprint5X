@@ -6,9 +6,8 @@ description: >-
   "add Allure to my tests", "set up ExtentReports", "capture a screenshot on
   failure", "add a TestNG listener for reporting", or wants readable run reports.
   Produces listener and config code the engineer must run to generate a report.
-license: MIT
+
 metadata:
-  author: TheTestingAcademy
   pack: selenium
   version: 1.0.0
 ---

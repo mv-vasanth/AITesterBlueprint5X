@@ -3,7 +3,7 @@ name: "test plan creator"
 description: "Based on my template, which I am going to give him it is going to create a test plan according to my company. accenture.com"
 version: "1.0.0"
 author: "Vasantharajan"
-license: "MIT"
+
 tags:
   - testplan
 

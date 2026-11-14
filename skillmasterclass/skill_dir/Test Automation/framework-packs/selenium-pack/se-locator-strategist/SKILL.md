@@ -6,9 +6,8 @@ description: >-
   the trade-offs. Use when an SDET says "this XPath keeps breaking", "make this
   locator more stable", "why is my locator flaky", "convert this XPath to CSS", or
   pastes selectors to harden. Produces proposals the engineer must verify in the DOM.
-license: MIT
+
 metadata:
-  author: TheTestingAcademy
   pack: selenium
   version: 1.0.0
 ---

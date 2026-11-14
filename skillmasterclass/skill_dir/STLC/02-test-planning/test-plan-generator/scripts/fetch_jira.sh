@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Fetch a JIRA issue as JSON. Usage: ./fetch_jira.sh VOC-1234
+# Fetch a JIRA issue as JSON. Usage: ./fetch_jira.sh PCGS-1234
 # Needs env: JIRA_BASE_URL (e.g. https://yourco.atlassian.net), JIRA_EMAIL, JIRA_TOKEN
 # ponytail: curl + jq, no SDK. Add pagination/attachments only if a ticket needs it.
 set -euo pipefail

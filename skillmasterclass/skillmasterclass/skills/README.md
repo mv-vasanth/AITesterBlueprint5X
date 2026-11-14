@@ -1,6 +1,6 @@
 # QA Skill Suite — organized by STLC
 
-36 Agent Skills for the full **Software Testing Life Cycle**, by TheTestingAcademy.
+36 Agent Skills for the full **Software Testing Life Cycle**.
 Folders are **numbered in STLC order** so you read them the way testing actually flows:
 requirement → plan → design → cases → execute → defects → closure.
 

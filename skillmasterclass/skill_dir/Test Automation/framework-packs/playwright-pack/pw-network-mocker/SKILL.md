@@ -6,9 +6,8 @@ description: >-
   test deterministic without the backend", or "intercept network calls". Produces
   page.route / fulfill handlers to stub responses, simulate errors, and remove
   backend flakiness — a draft the engineer wires in and runs.
-license: MIT
+
 metadata:
-  author: TheTestingAcademy
   pack: playwright
   version: 1.0.0
 ---

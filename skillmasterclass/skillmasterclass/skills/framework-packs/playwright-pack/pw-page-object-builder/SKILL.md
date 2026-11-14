@@ -6,7 +6,7 @@ description: >-
   dashboard", "extract locators into a page class", or wants to refactor inline
   selectors into a reusable class. Produces locators-as-methods (getByTestId/
   getByRole), action methods, and a static PATH — a draft to review.
-license: MIT
+
 metadata:
   author: Vasanth
   pack: playwright

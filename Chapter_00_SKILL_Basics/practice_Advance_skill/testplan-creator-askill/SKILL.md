@@ -1,7 +1,7 @@
 ---
 name: Advance-test-plan-creator
 description: "Turn a Jira ticket into a review ready test plan. use this when a test or a qa says write a testplan for ticket numberPlan testing for the story. What should we test here or paste? And an acceptance criteria: user tickets, register tickets. Analyze it for the gaps and ambitiously fit it to the standard test plan template, and stop for human review before anything is treated as final."
-license: MIT
+
 metadata: 
   version: "1.0.0"
   author: "Vasantharajan"

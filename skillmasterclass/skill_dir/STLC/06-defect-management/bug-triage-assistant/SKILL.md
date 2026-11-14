@@ -6,9 +6,8 @@ description: >-
   issues that need sorting. Groups likely duplicates, proposes severity/priority, routes
   each to a component or owner, and flags reports missing information. Every duplicate and
   routing is a suggestion for a human to confirm — it never auto-closes or reassigns silently.
-license: MIT
+
 metadata:
-  author: TheTestingAcademy
   stlc-phase: Defect Management
   version: 1.0.0
 ---

@@ -6,9 +6,8 @@ description: >-
   or describes a change and wants the affected tests identified. Maps changed areas to the
   tests that exercise them, ranks by risk, and proposes a run set with a rationale — plus a
   safety net of always-run tests. It recommends; a human confirms before anything is skipped.
-license: MIT
+
 metadata:
-  author: TheTestingAcademy
   stlc-phase: Test Execution
   version: 1.0.0
 ---

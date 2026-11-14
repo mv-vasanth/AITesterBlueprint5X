@@ -6,7 +6,7 @@ description: >-
   "set up Selenium Grid", "run my tests on a remote grid", "dockerize Selenium Grid
   4", "point my tests at RemoteWebDriver", or wants parallel execution across nodes.
   Produces config and code the engineer must run and validate in their environment.
-license: MIT
+
 metadata:
   author: Vasanth
   pack: selenium

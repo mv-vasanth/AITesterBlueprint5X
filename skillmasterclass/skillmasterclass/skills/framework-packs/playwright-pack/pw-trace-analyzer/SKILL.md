@@ -6,7 +6,7 @@ description: >-
   trace.zip", "my CI run failed — what broke", or pastes an error + trace. Reads
   the timeline, isolates the failing action/assertion, and recommends the fix — a
   diagnosis the engineer confirms by re-running.
-license: MIT
+
 metadata:
   author: Vasanth
   pack: playwright

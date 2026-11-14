@@ -6,7 +6,7 @@ description: >-
   an auth fixture", "I need a logged-in page fixture", "set up test data
   fixtures", "share a page object via fixture", or wants to stop repeating login
   in every test. Produces a typed fixtures module — a draft to wire in and run.
-license: MIT
+
 metadata:
   author: Vasanth
   pack: playwright

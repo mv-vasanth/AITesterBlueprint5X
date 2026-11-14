@@ -6,9 +6,8 @@ description: >-
   JIRA-123", or pastes a user story / acceptance criteria and wants it pressure-tested.
   Fetches the ticket, scores it against a readiness checklist, and returns a
   gaps / ambiguities / risks report plus clarifying questions to send back to the author.
-license: MIT
+
 metadata:
-  author: Prrammod Dutta | TheTestingAcademy
   stlc-phase: Requirement Analysis
   version: 1.0.0
 ---

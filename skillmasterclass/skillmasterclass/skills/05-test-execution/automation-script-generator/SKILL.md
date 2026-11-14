@@ -7,7 +7,7 @@ description: >-
   using data-testid selectors and web-first assertions, mapped step-by-step from the case.
   The output is a starting draft the engineer reviews, wires up, and runs — never a
   finished test, and never assumes selectors or fixtures exist.
-license: MIT
+
 metadata:
   author: Vasanth
   stlc-phase: Test Execution
